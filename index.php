@@ -1,5 +1,5 @@
 <?php 
 
-echo 'php Demo';
+echo 'php Demo.';
 
 ?>
